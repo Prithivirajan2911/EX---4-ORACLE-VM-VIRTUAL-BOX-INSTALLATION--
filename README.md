@@ -7,13 +7,22 @@ Operating System: Windows, macOS, or Linux-based OS 2.Processor: x86/AMD64-compa
 ### Software Requirements:
 Internet connection to download the VirtualBox installer 2.Optionally, Oracle VM VirtualBox Extension Pack for additional features
 ### Procedure:
-Step 1: Download VirtualBox
+#### Step 1: Download VirtualBox
+
 Go to the VirtualBox official website: VirtualBox Downloads 3.Choose the appropriate version for your operating system: 4.Windows hosts (for Windows users) 5.macOS hosts (for Mac users) 6Linux distributions (for Linux users)
-Step 2: Install VirtualBox (Windows/macOS)
+
+#### Step 2: Install VirtualBox (Windows/macOS)
+
 For Windows:
 
-Open the downloaded installer (VirtualBox-x.x.x-xxxx-Win.exe). 2.Follow the setup wizard: Click Next. Select the installation location (default is recommended). Choose the components you want to install and click Next. The installer may show a warning about network interfaces; allow it to proceed by clicking Yes. 3.Click Install and allow the process to complete.
-Step 3: Verify the Installation
+Open the downloaded installer (VirtualBox-x.x.x-xxxx-Win.exe). 
+
+2.Follow the setup wizard: Click Next. Select the installation location (default is recommended). Choose the components you want to install and click Next. The installer may show a warning about network interfaces; allow it to proceed by clicking Yes. 
+
+3.Click Install and allow the process to complete.
+
+#### Step 3: Verify the Installation
+
 Launch VirtualBox from the desktop or start menu. 2.The VirtualBox Manager should open, showing options to create and manage virtual machines.
 ### Output:
 ![image](https://github.com/user-attachments/assets/f2bd8683-6c94-4543-b62f-ea1205cdb154)
